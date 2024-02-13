@@ -79,24 +79,24 @@
 4. <h4 style='text-decoration:underline'>Служители</h4>
 
    - [Профилна страница](/FrontEndReadMeFiles/ClientFiles/Profile.md)
-   - ! [Поръчки за отдела](/FrontEndReadMeFiles/Employee/EditProfile.md)
-   - ! [Заплати](/FrontEndReadMeFiles/Employee/)
+   - [Поръчки за отдела](/FrontEndReadMeFiles/Employee/CurrentOrders.md)
+   - [Заплати](/FrontEndReadMeFiles/Employee/EmpSalary.md)
 
 5. <h4 style='text-decoration:underline'> Качествен контрол</h4>
 
    - [Профилна страница](/FrontEndReadMeFiles/ClientFiles/Profile.md)
-   - ! [Одобрение на поръчки](/FrontEndReadMeFiles/Manager/NewOrders.md)
+   - [Одобрение на поръчки](/FrontEndReadMeFiles/QualityControl/Orders.md)
 
 6. <h4 style='text-decoration:underline'>Управител</h4>
 
    - ! [Нови поръчки](/FrontEndReadMeFiles/Manager/NewOrders.md)
    - ! [В продукция](/FrontEndReadMeFiles/Manager/Production.md)
-   - ! [Завършени]()
-   - ! [Изпратени]()
+   - ! [Завършени](/FrontEndReadMeFiles/Manager/ComplitedOrders.md)
+   - ! [Изпратени](FrontEndReadMeFiles/Manager/DispatchedOrders.md)
    - ! [Служители](/FrontEndReadMeFiles/Manager/Employers.md)
    - ! [Нов служител](/FrontEndReadMeFiles/Manager/AddEmployee.md)
    - ! [Заплати](/FrontEndReadMeFiles/Manager/)
-   - ! [Склад]()
+   - ! [Склад](FrontEndReadMeFiles/Manager/Storage.md)
    - ! [Статистика]()
 
 <!-- 7. <h4 style='text-decoration:underline'>[Крайни точки](/ReadMeFiles_BE)</h4> -->
