@@ -115,7 +115,7 @@
 
 - [Nikolay Yuchormanski](www.linkedin.com/in/nikolay-yuchormanski-b34975255) - Front-End
 
-- [Todor Todorov](https://www.linkedin.com/in/тодор-тодоров-178aaa263/) - Back-End
+- [Todor Todorov](https://www.linkedin.com/in/todor-todorov-178aaa263/) - Back-End
 
 - [Krasimir Iliev](https://www.linkedin.com/in/krasimir-iliev-bb4189238/) - Back-End
 
